@@ -71,6 +71,7 @@ figcaption {
   color: red;
 }
 
+<<<<<<< HEAD
 /*///// LAYOUT /////*/
 .wrapper {
   width: 960px;
@@ -101,3 +102,9 @@ figcaption {
 .first {
   margin-left: 0%;
 }
+=======
+/*/////// LAYOUT /////////*/
+.wrapper {
+  
+}
+>>>>>>> 36eba035c647cd4fd3dca7dcd542469b4d902e8c
